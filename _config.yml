@@ -1,0 +1,7 @@
+pygments: true
+permalink: /otter-pop/:year/:month/:day/:title
+markdown: rdiscount
+exclude: ['.git']
+name: "KASIELe"
+description: "rucham psa"
+url: http://kacambul.tumblr.com
